@@ -12,7 +12,7 @@
     "serve": "^13.0.2"
   },
   "scripts": {
-    "start": "node server.js"
+  "start": "node server.js"    
   },
   "name": "14-model-view-controller-mvc-tech-blog",
   "description": "",
