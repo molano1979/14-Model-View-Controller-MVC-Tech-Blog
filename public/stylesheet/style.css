@@ -132,7 +132,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color:lavenderblush;
   }
   
   .comment .meta {
